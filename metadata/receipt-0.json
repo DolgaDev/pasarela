@@ -1,0 +1,10 @@
+{
+  "name": "Recibo de pago #0",
+  "description": "Comprobante de un pago realizado en la pasarela de pagos USDG (DolgaToken).",
+  "image": "ipfs://bafkreigc4cfvv46fimuhsgm3lmvswqid52f36s7hdaxntpmn5nc2k5idgm",
+  "attributes": [
+    { "trait_type": "Token de pago", "value": "USDG" },
+    { "trait_type": "Red", "value": "Base Sepolia" },
+    { "trait_type": "Monto", "value": "10" }
+  ]
+}
